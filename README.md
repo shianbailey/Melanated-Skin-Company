@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project is a static e-commerce website built using HTML5 and CSS3.
-A clean page structure, responsive layout, easy navigation and accessible design is all demonstrated - all without using JavaScript.
+This website demonstrates a clean page structure, responsive layout, easy navigation and accessible design - all without using JavaScript.
 
 ## Features
 - Layout is responsive across moblie, tablet, and desktop.
