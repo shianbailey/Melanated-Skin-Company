@@ -29,7 +29,7 @@ A clean page structure, responsive layout, easy navigation and accessible design
 - GitHub Pages
 
 ## Live Website
-https://username.github.io/project-name/
+[https://username.github.io/project-name/](https://shianbailey.github.io/Melanated-Skin-Company/)
 
 ## Screenshots
 ![Homepage](Images/homepage.png)
